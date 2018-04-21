@@ -15,6 +15,9 @@ The project functionalities are built in `js/app.js`, the app is drawing enemies
 
 Player should reach water without collision with any enemy. Collision will reset the player to initial location.
 
+3. Link to live game
+
+https://lujain-sul.github.io/frontend-nanodegree-arcade-game-master/
 
 ## Contributing
 
